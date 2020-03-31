@@ -1,0 +1,43 @@
+/*style.css*/
+
+h1 {
+    /*h1*/
+    position: absolute;
+    width: 744;
+    height: 96;
+    left: 348px;
+    top: 112px;
+
+    /*Display 20*/
+    @font-face {
+        font-family: Work sans;
+        src: url(github.com/googlefonts);
+        font-size: 36px;
+        line-height: 48px;
+     }
+    
+    /*color*/
+    color: black;
+
+}
+
+h2{
+    /*h2*/
+    position: absolute;
+    width: 744;
+    height: 128;
+    left: 348px;
+    top: 216px;
+
+    /*Display 20*/
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 22px;
+    line-height: 32px;
+     
+    
+    /*color*/
+    color: #999999;
+
+
+}
